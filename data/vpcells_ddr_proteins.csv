@@ -1,0 +1,138 @@
+gene,vpcells_localization,hpa_localization,reactome_pathways,source
+ADRM1,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm, Plasma Membrane",Cell_Cycle_Checkpoints,Reactome
+AKT1,"Cytosol, Nucleoplasm","Cytoskeleton, Nucleoplasm",Regulation_of_TP53_Activity,Reactome
+ARID1A,"Nuclear speckles, Nucleoplasm",Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+ARID2,"Nuclear speckles, Nucleoplasm",Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+ARID5B,Vesicles,"Cytosol, Endoplasmic Reticulum, Nucleoplasm, Plasma memrane",Chromatin_modifying_enzymes,Reactome
+ATF7IP,"Nuclear speckles, Nucleoplasm","Nuclear speckles, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+ATR,"Vesicles, Plasma membrane","Golgi apparatus, Nucleoplasm",Cell_Cycle_Checkpoints; DNA_Double-Strand_Break_Repair; Fanconi_Anemia_Pathway,Reactome
+BRCA1,Vesicles,"Nuclear speckles, Nucleoplasm",Cell_Cycle_Checkpoints; DNA_Double-Strand_Break_Repair; SUMOylation_of_DDR_proteins,Reactome
+BRCA2,Vesicles,"Cytosol, Nucleoplasm",DNA_Double-Strand_Break_Repair,Reactome
+CDC20,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+CDK1,Nucleoplasm,"Cytosol, Nucleoplasm",Cell_Cycle_Checkpoints; Regulation_of_TP53_Activity,Reactome
+CDK4,Vesicles,"Cytosol, Nuclear membrane, Nucleoli, Nucleoplasm",Cellular_Senescence; Chromatin_modifying_enzymes,Reactome
+CDKN1B,"Cytosol, Nucleoplasm","Nucleoplasm, Vesicles",Cell_Cycle_Checkpoints; Cellular_Senescence,Reactome
+CENPX,Cytosol,NA,Fanconi_Anemia_Pathway,Reactome
+CHD3,"Nuclear speckles, Nucleoplasm","Cytoskeleton, Nucleoli, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+CHD4,"Nuclear speckles, Nucleoplasm",Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+CLSPN,"Cytosol, Nucleoplasm","Golgi apparatus, Nucleoplasm",Cell_Cycle_Checkpoints; DNA_Double-Strand_Break_Repair,Reactome
+COPS2,"Cytosol, Nucleoplasm","Cytoskeleton, Vesicles",Nucleotide_Excision_Repair,Reactome
+COPS3,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
+COPS8,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
+CREBBP,"Nuclear speckles, Nucleoplasm","Nuclear speckles, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+CSNK1A1,"Cytosol, Nucleoplasm",Cytosol,Cell_Cycle_Checkpoints,Reactome
+CUL1,"Cytosol, Nucleoplasm","Nucleoli, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+CUL4B,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",DNA_Damage_Bypass; Nucleotide_Excision_Repair,Reactome
+DDB1,Nucleoplasm,Nucleoplasm,DNA_Damage_Bypass; Nucleotide_Excision_Repair,Reactome
+DYNC1H1,Cytosol,"Centrosome, Cytosol",Cell_Cycle_Checkpoints,Reactome
+DYNC1I2,Cytosol,"Cytoskeleton, Cytosol, Endoplasmic reticulum, Nucleoli",Cell_Cycle_Checkpoints,Reactome
+DYNC1LI1,Cytosol,"Centrosome, Cytosol",Cell_Cycle_Checkpoints,Reactome
+E2F3,"Nuclear speckles, Nucleoplasm","Cytosol, Nuclear speckles, Nucleoplasm",Cellular_Senescence,Reactome
+ENY2,"Nuclear membrane, Nucleoplasm","Mitochondria, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+EP300,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+ERCC2,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
+ERCC3,Nucleoplasm,"Nucleoplasm, Vesicles",Nucleotide_Excision_Repair,Reactome
+EZH2,Nucleoplasm,Nucleoplasm,Cellular_Senescence; Chromatin_modifying_enzymes,Reactome
+GPS2,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+H3-3A,Nucleoplasm,Nucleoplasm,Cellular_Senescence,Reactome
+HAT1,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+HCFC1,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+HDAC1,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+ING3,"Cytosol, Nucleoplasm",Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+INO80B,"Cytosol, Nucleoplasm","Nuclear speckles, Nucleoli, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
+JAK2,Plasma membrane,"Nucleoplasm, Plasma membrane",Chromatin_modifying_enzymes,Reactome
+KAT2A,Vesicles,NA,Chromatin_modifying_enzymes,Reactome
+KAT5,Nucleoplasm,"Cytosol, Nucleoplasm, Vesicles",Cell_Cycle_Checkpoints; Cellular_Senescence; Chromatin_modifying_enzymes; DNA_Double-Strand_Break_Repair,Reactome
+KDM5C,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+KDM6A,Cytosol,"Nucleoli, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+KMT2A,Nucleoplasm,"Cytosol, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+KMT2B,Vesicles,"Cytosol, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+KMT2D,Vesicles,"Cytosol, Nucleoplasm, Plasma Membrane",Chromatin_modifying_enzymes,Reactome
+KNTC1,Cytosol,"Cytosol, Plasma membrane",Cell_Cycle_Checkpoints,Reactome
+LIG3,Vesicles,Nucleoplasm,Base_Excision_Repair; DNA_Double-Strand_Break_Repair; Nucleotide_Excision_Repair,Reactome
+MAD2L2,Nucleoplasm,Nucleoplasm,DNA_Damage_Bypass,Reactome
+MAP2K4,"Cytosol, Nucleoplasm","Nucleoplasm, Plasma membrane",Cellular_Senescence,Reactome
+MAPK1,Cytosol,"Cytosol, Nuclear speckles",Cellular_Senescence,Reactome
+MAPRE1,Cytosol,"Cytoskeleton, Cytosol",Cell_Cycle_Checkpoints,Reactome
+MCM10,"Cytosol, Nucleoplasm","Nucleoli, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+MCM3,Nucleoplasm,Nucleoplasm,Cell_Cycle_Checkpoints,Reactome
+MCM6,Nucleoplasm,Nucleoplasm,Cell_Cycle_Checkpoints,Reactome
+MEAF6,"Nuclear speckles, Nucleoplasm","Nuclear speckles, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+MLH1,Nucleoplasm,Nucleoplasm,Mismatch_Repair,Reactome
+MNAT1,Nucleoplasm,Nucleoplasm,Nucleotide_Excision_Repair,Reactome
+MORF4L1,"Cytosol, Nucleoplasm",Nuclear speckles,Chromatin_modifying_enzymes,Reactome
+MRGBP,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+MSH2,Nucleoplasm,"Nucleoplasm, Vesicles",Mismatch_Repair,Reactome
+MSH6,Nucleoplasm,"Golgi apparatus, Nucleoplasm, Vesicles",Mismatch_Repair,Reactome
+MTA2,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+MTOR,"Cytosol, Vesicles","Cytosol, Golgi apparatus",Regulation_of_TP53_Activity,Reactome
+NCOR1,Nucleoplasm,"Cytosol, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+NDC1,Vesicles,"Cytoskeleton, Nuclear membrane, Plasma membrane",SUMOylation_of_DDR_proteins,Reactome
+NSD2,"Nuclear speckles, Nucleoplasm",Nucleoplasm,Cell_Cycle_Checkpoints; Chromatin_modifying_enzymes; DNA_Double-Strand_Break_Repair,Reactome
+NUP107,"Nuclear membrane, Nucleoplasm","Centrosome, Nuclear membrane, Nucleoplasm",Cell_Cycle_Checkpoints; SUMOylation_of_DDR_proteins,Reactome
+NUP133,Nuclear membrane,Nuclear membrane,Cell_Cycle_Checkpoints; SUMOylation_of_DDR_proteins,Reactome
+NUP153,Nuclear membrane,Nuclear membrane,SUMOylation_of_DDR_proteins,Reactome
+NUP155,"Cytosol, Nuclear membrane",Nuclear membrane,SUMOylation_of_DDR_proteins,Reactome
+NUP205,"Cytosol, Nuclear membrane",NA,SUMOylation_of_DDR_proteins,Reactome
+NUP210,Nuclear membrane,NA,SUMOylation_of_DDR_proteins,Reactome
+NUP214,Nuclear membrane,NA,SUMOylation_of_DDR_proteins,Reactome
+NUP42,"Cytosol, Nucleoplasm",Nucleoplasm,SUMOylation_of_DDR_proteins,Reactome
+NUP50,"Cytosol, Nuclear membrane","Nuclear membrane, Nucleoplasm",SUMOylation_of_DDR_proteins,Reactome
+NUP58,Nuclear membrane,NA,SUMOylation_of_DDR_proteins,Reactome
+NUP85,"Cytosol, Nuclear membrane","Cytosol, Nucleoplasm",Cell_Cycle_Checkpoints; SUMOylation_of_DDR_proteins,Reactome
+NUP93,"Cytosol, Nuclear membrane",NA,SUMOylation_of_DDR_proteins,Reactome
+NUP98,Nuclear membrane,NA,Cell_Cycle_Checkpoints; SUMOylation_of_DDR_proteins,Reactome
+ORC6,Nucleoplasm,"Nucleoli, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+PBRM1,"Nuclear speckles, Nucleoplasm",Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+POLD3,Nucleoplasm,Nucleoplasm,Base_Excision_Repair; DNA_Damage_Bypass; DNA_Double-Strand_Break_Repair; Mismatch_Repair; Nucleotide_Excision_Repair,Reactome
+POLE,Vesicles,"Nucleoplasm, Plasma membrane",Base_Excision_Repair; DNA_Damage_Bypass; DNA_Double-Strand_Break_Repair; Nucleotide_Excision_Repair,Reactome
+POLE3,"Cytosol, Nucleoplasm","Cytosol, Nucleoli, Nucleoplasm",Base_Excision_Repair; DNA_Damage_Bypass; DNA_Double-Strand_Break_Repair; Nucleotide_Excision_Repair,Reactome
+POLQ,Vesicles,"Cytosol, Golgi apparatus, Nucleoplasm",DNA_Double-Strand_Break_Repair,Reactome
+POLR2B,Nucleoplasm,Nucleoplasm,Nucleotide_Excision_Repair,Reactome
+POLR2D,"Cytosol, Nucleoplasm","Nuclear speckles, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
+PPP1CC,"Cytosol, Nucleoplasm","Cytosol, Vesicles",Cell_Cycle_Checkpoints,Reactome
+PPP2R1A,Cytosol,Cytosol,Cell_Cycle_Checkpoints; Regulation_of_TP53_Activity,Reactome
+PPP4R2,"Cytosol, Nucleoplasm",Nucleoplasm,DNA_Double-Strand_Break_Repair,Reactome
+PRKDC,"Cytosol, Nucleoplasm",Nucleoplasm,DNA_Double-Strand_Break_Repair,Reactome
+PRMT5,Cytosol,"Cytosol, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+PSMB7,"Cytosol, Nucleoplasm","Cytosol, Nuclear Speckles, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+PSMC1,Cytosol,"Cytosol, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+PSMC2,Cytosol,Cytosol,Cell_Cycle_Checkpoints,Reactome
+PSMD1,"Cytosol, Nucleoplasm","Cytoskeleton, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+PSMD11,"Cytosol, Nucleoplasm","Golgi apparatus, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+PSMD13,"Cytosol, Nucleoplasm","Cytosol, Nuclear speckles",Cell_Cycle_Checkpoints,Reactome
+PSMD14,"Cytosol, Nucleoplasm",Nucleoplasm,Cell_Cycle_Checkpoints,Reactome
+PSMD3,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",Cell_Cycle_Checkpoints,Reactome
+PSMD6,"Cytosol, Nucleoplasm",NA,Cell_Cycle_Checkpoints,Reactome
+RAD18,Nuclear speckles,"Nuclear speckles, Nucleoplasm",DNA_Damage_Bypass,Reactome
+RAD21,Nucleoplasm,Nucleoplasm,SUMOylation_of_DDR_proteins,Reactome
+RAD23B,"Cytosol, Nucleoplasm","Cytosol, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
+RB1,Nucleoplasm,Nucleoplasm,Cellular_Senescence,Reactome
+RBBP7,Nucleoplasm,Nucleoplasm,Cellular_Senescence; Chromatin_modifying_enzymes,Reactome
+RCHY1,Cytosol,"Cytosol, Nucleoplasm, Vesicles",DNA_Damage_Bypass,Reactome
+RELA,Cytosol,Cytosol,Cellular_Senescence; Chromatin_modifying_enzymes,Reactome
+RFC1,Nucleoplasm,Nucleoplasm,Base_Excision_Repair; DNA_Damage_Bypass; DNA_Double-Strand_Break_Repair; Nucleotide_Excision_Repair,Reactome
+RFC5,"Cytosol, Nucleoplasm",Nucleoplasm,Base_Excision_Repair; Cell_Cycle_Checkpoints; DNA_Damage_Bypass; DNA_Double-Strand_Break_Repair; Nucleotide_Excision_Repair,Reactome
+RPA1,"Cytosol, Nucleoplasm",Nucleoplasm,Base_Excision_Repair; Cell_Cycle_Checkpoints; DNA_Damage_Bypass; DNA_Double-Strand_Break_Repair; Fanconi_Anemia_Pathway; Mismatch_Repair; Nucleotide_Excision_Repair; SUMOylation_of_DDR_proteins,Reactome
+RPS6KA3,Vesicles,"Cytosol, Nucleoli, Nucleoplasm",Cellular_Senescence,Reactome
+SMARCA4,Nucleoplasm,"Nucleoli, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+SMARCA5,Nucleoplasm,"Nucleoli, Nucleoplasm",DNA_Double-Strand_Break_Repair,Reactome
+SMARCB1,Nucleoplasm,"Nucleoli, Nucleoplasm",Chromatin_modifying_enzymes,Reactome
+SMARCC1,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+SMC1A,Nucleoplasm,Nucleoplasm,SUMOylation_of_DDR_proteins,Reactome
+SMC3,"Nuclear speckles, Nucleoplasm",Nucleoplasm,SUMOylation_of_DDR_proteins,Reactome
+SP1,"Nuclear speckles, Nucleoplasm",Nucleoplasm,Cellular_Senescence,Reactome
+STAG2,Nucleoplasm,"Nucleoli, Nucleoplasm",SUMOylation_of_DDR_proteins,Reactome
+SUMO3,"Nuclear speckles, Nucleoplasm","Nuclear speckles, Nucleoplasm",Nucleotide_Excision_Repair; SUMOylation_of_DDR_proteins,Reactome
+TAF10,"Cytosol, Nucleoplasm",Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+TBL1XR1,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+TCEA1,Nucleoplasm,"Nucleoli, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
+TP53,Nucleoplasm,"Cytosol, Nucleoplasm, Vesicles",Cell_Cycle_Checkpoints; Cellular_Senescence; DNA_Double-Strand_Break_Repair; Regulation_of_TP53_Activity,Reactome
+TPR,Nuclear membrane,Nuclear membrane,SUMOylation_of_DDR_proteins,Reactome
+USP22,Nucleoplasm,Nuclear speckles,Chromatin_modifying_enzymes,Reactome
+WDR5,Nucleoplasm,Nucleoplasm,Chromatin_modifying_enzymes,Reactome
+XPO1,"Cytosol, Nuclear membrane, Nucleoplasm","Cytosol, Nuclear membrane, Nucleoplasm, Vesicles",Cell_Cycle_Checkpoints,Reactome
+XRCC6,Nucleoplasm,Nucleoplasm,DNA_Double-Strand_Break_Repair,Reactome
+YWHAB,Cytosol,Cytosol,Cell_Cycle_Checkpoints,Reactome
+YWHAG,"Cytosol, Nucleoplasm",Cytosol,Cell_Cycle_Checkpoints,Reactome
+YY1,Nucleoplasm,"Nuclear speckles, Nucleoli, Nucleoplasm",Nucleotide_Excision_Repair,Reactome
